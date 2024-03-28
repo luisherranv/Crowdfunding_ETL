@@ -9,7 +9,8 @@ This codebase contains the following deliverables in the subdirectory "Starter_F
 1. A Jupyter Notebook, "ETL_Mini_Project_*" where the wildcard at the end has short form names of the group members.
 
 2. In the "Resources" subdirectory : new CSV files "category", "subcategory", "campaign" and "contacts" that contain the respective DataFrames.
-These can eventually be used to import into a SQL database.
+These can eventually be used to import into a SQL database. Note this subdirectory also includes the Excel files that were part of the project's
+starter code.
 
 NOTE that the "campaign" CSV should be imported into the database LAST. 
 The others can be imported in any order.
